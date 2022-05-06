@@ -1,4 +1,4 @@
-/* i.fas.fa-search.icon {
+i.fas.fa-search.icon {
     margin-left: -50px;
     z-index: 100;
     position: relative;
@@ -13,4 +13,4 @@ input.form-control.form-control-lg.form-control-borderless {
 .container{
     max-width: 1280px;
     margin: 0 auto;
-} */
+}
